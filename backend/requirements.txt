@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic[email]
+python-dotenv
+passlib
+pbkdf2
+anthropic
+python-multipart
+requests
+psycopg2-binary
